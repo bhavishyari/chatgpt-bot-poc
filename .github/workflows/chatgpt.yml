@@ -20,4 +20,4 @@ jobs:
           LANGUAGE: English
           MODEL:
           top_p: 1
-          temperature: 1
+          temperature: 0
